@@ -1,0 +1,5 @@
+[submodule "input"]
+	path = input
+	url = ../../../from_local_models
+	datalad-id = fa08cd17-8dc7-4cc3-8b69-528a9b3a6bcc
+	datalad-url = ../../from_local_models
